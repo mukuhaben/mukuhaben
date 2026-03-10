@@ -1,7 +1,5 @@
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=header"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=160&section=header&text=Benson%20Ngatia&fontSize=40&fontColor=ffffff"/>
 <h2 align="center">Benson Ngatia</h2>
 
 <p align="center">
