@@ -1,6 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=160&section=header&text=Benson%20Ngatia&fontSize=40&fontColor=ffffff"/>
-<h2 align="center">Benson Ngatia</h2>
+
 
 <p align="center">
 Full-Stack Developer 
@@ -20,6 +20,7 @@ Full-Stack Developer
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mukuhaben&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukuhaben&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mukuhaben&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=mukuhaben&theme=tokyonight&hide_border=true"/>
 </p>
