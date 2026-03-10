@@ -1,3 +1,7 @@
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=header"/>
+</p>
 <h2 align="center">Benson Ngatia</h2>
 
 <p align="center">
