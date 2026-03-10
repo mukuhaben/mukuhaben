@@ -1,72 +1,18 @@
-<h1 align="center">Hi 👋, I'm Benson Ngatia</h1>
-<h3 align="center">Full Stack Developer from Kenya</h3>
+<h2 align="center">Benson Ngatia</h2>
 
----
-## 📊 GitHub Stats
+<p align="center">
+Full-Stack Developer 
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukuhaben&show_icons=true&theme=radical)
+<p align="center">
+<a href="https://portfolio-ngatia.vercel.app">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/ngatiaben">💼 LinkedIn</a>
+</p>
 
-## 🚀 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2ECC71&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications" />
+</p>
 
-- 💻 Full-stack developer specializing in **React, Node.js and PostgreSQL**
-- 🌱 Currently building scalable **web applications and business systems**
-- 🎯 Passionate about solving real world problems using software
-  
-
----
-
-## 🛠 Tech Stack
-
-Frontend
-- React
-- TypeScript
-- Tailwind CSS
-- JavaScript
-
-Backend
-- Node.js
-- Express.js
-- PostgreSQL
-
-Tools
-- Git
-- Docker
-- Vercel
-- Render
-
----
-
-## 📌 Featured Projects
-
-### 🛒 E-Commerce Platform
-Modern full-stack marketplace supporting:
-- customers
-- suppliers
-- sales agents
-- admin dashboard
-
-Tech: React | Node.js | PostgreSQL
-
----
-
-### 🌱 Agriculture Consulting Website
-Professional corporate website for an agriculture consulting company.
-
-Live site:
-https://agriculture-consulting.vercel.app/
-
----
-
-### 👨‍💻 Portfolio Website
-My personal portfolio showcasing projects and skills.
-
-https://portfolio-ngatia.vercel.app/
-
----
-
-## 📫 Contact Me
-
-Email: mukuhabenson@gmail.com
-
-Portfolio:
-https://portfolio-ngatia.vercel.app
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,postgres,express,git,github,vscode,vercel" />
+</p>
