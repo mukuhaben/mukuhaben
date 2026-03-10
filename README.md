@@ -2,6 +2,9 @@
 <h3 align="center">Full Stack Developer from Kenya</h3>
 
 ---
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mukuhaben&show_icons=true&theme=radical)
 
 ## 🚀 About Me
 
